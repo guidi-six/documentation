@@ -1,5 +1,9 @@
 # How to update nexus node no-gui
 ---
+## Delete old folder
+- rm -fr  LLL-TAO
+## Clone branch
+- git clone -b 5.0.4 https://github.com/Nexusoft/LLL-TAO
 ## Change directory
 - cd LLL-TAO
 
