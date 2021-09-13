@@ -15,7 +15,7 @@ After we move to the directory with the old code, we need to sync with the branc
 
 - git branch
 
-we should be on *merging* branch (default)
+we should be on *5.0.4* branch (update)
 
 ### Fetch new branches
 we may need to check for new branches, to do it, please do a:
